@@ -13,14 +13,12 @@
 - 💪🏼 Future Goals:
 
 
----
-
 
 ### Contact me 📝
 
 
 <a href=linkedin> <img align="left"  width="60px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]</a>
-<a href=Gmail> <img align="left"  width="60px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][Gmail]</a>
+<a href=Gmail> <img align="left"  width="60px" src="https://camo.githubusercontent.com/bab48f1d0cd96cc4ac0e744d9afa7bc82fa163a206819924ac59f9ba74624d64/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31642f34362f64642f31643436646461356239396366316139316131653233373766623934386233362e676966" />][Gmail]</a>
 
 
 <br />
