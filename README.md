@@ -1,6 +1,6 @@
 
 
-<img src="https://s9.gifyu.com/images/SFG4S.gif" width="900px" height="300px">
+<img src="https://s9.gifyu.com/images/SFG4S.gif" width="1200px" height="400px">
 
 ## Salam, I'm Asmaa fron Egypt 🇪🇬 I'm a Software Engineer and a Coding Instructor  
 
@@ -16,7 +16,7 @@
 ### Contact me 📝
 
 
-<a href=linkedin> <img align="left" marign-right="10px" height="30px" width="80px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" /></a>
+<a href="https://www.linkedin.com/in/asmaahamdy/"> <img align="left" marign="10px" height="30px" width="80px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" /></a>
 <a href=mailto:asmahamdym@gmail.com> <img align="left" height="30px" width="80px" src="https://camo.githubusercontent.com/bab48f1d0cd96cc4ac0e744d9afa7bc82fa163a206819924ac59f9ba74624d64/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31642f34362f64642f31643436646461356239396366316139316131653233373766623934386233362e676966" /></a>
 
 
@@ -60,6 +60,5 @@
 <br/>
 
 ---
-[Linkedin] : https://www.linkedin.com/in/asmaahamdy/
 
 
