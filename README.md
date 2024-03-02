@@ -4,7 +4,7 @@
 
 ## Salam, I'm Asmaa fron Egypt 🇪🇬
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" margin-top="20px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Software Engineer and a Coding Instructor  
 
@@ -16,11 +16,13 @@
 ---
 
 
-### Contact with me 📝
+### Contact me 📝
 
 
-<a href=linkedin> <img align="left"  width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]</a>
-[<img align="left"  | Twitter" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][Twitter]
+<a href=linkedin> <img align="left"  width="60px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]</a>
+
+[<img align="left" width="60px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][asmahamdym@gmail.com]
+
 
 <br />
 
@@ -63,5 +65,4 @@
 
 ---
 
-[Twitter]: https://twitter.com/AsmaaHa15200590
-[]: https://www.linkedin.com/in/asmaahamdy/
+
