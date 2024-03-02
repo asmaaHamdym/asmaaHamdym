@@ -1,7 +1,8 @@
 
 
 <img src="https://s9.gifyu.com/images/SFG4S.gif" width="900px" height="300px">
-# Salam, I'm Asmaa fron Egypt 🇪🇬
+
+## Salam, I'm Asmaa fron Egypt 🇪🇬
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -11,11 +12,6 @@
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals:
 
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-
 
 ---
 
@@ -23,7 +19,7 @@
 ### Contact with me 📝
 
 
-[<img align="left"  | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
+<a href=linkedin> <img align="left"  width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]</a>
 [<img align="left"  | Twitter" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][Twitter]
 
 <br />
@@ -58,11 +54,8 @@
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaaHamdym&theme=react&line_height=40&hide=css"/>
     </a>
 </div
   
@@ -71,4 +64,4 @@
 ---
 
 [Twitter]: https://twitter.com/AsmaaHa15200590
-[linkedin]: https://www.linkedin.com/in/asmaahamdy/
+[]: https://www.linkedin.com/in/asmaahamdy/
