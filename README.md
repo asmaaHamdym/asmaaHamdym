@@ -2,8 +2,7 @@
 
 <img src="https://s9.gifyu.com/images/SFG4S.gif" width="900px" height="300px">
 
-## Salam, I'm Asmaa fron Egypt 🇪🇬
-## I'm a Software Engineer and a Coding Instructor  
+## Salam, I'm Asmaa fron Egypt 🇪🇬 I'm a Software Engineer and a Coding Instructor  
 
 <img align="right" alt="GIF" height="160px" margin-top="20px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -17,8 +16,8 @@
 ### Contact me 📝
 
 
-<a href=linkedin> <img align="left"  width="60px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]</a>
-<a href=Gmail> <img align="left"  width="60px" src="https://camo.githubusercontent.com/bab48f1d0cd96cc4ac0e744d9afa7bc82fa163a206819924ac59f9ba74624d64/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31642f34362f64642f31643436646461356239396366316139316131653233373766623934386233362e676966" />][Gmail]</a>
+<a href=linkedin> <img align="left" marign-right="10px" height="30px" width="80px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" /></a>
+<a href=mailto:asmahamdym@gmail.com> <img align="left" height="30px" width="80px" src="https://camo.githubusercontent.com/bab48f1d0cd96cc4ac0e744d9afa7bc82fa163a206819924ac59f9ba74624d64/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31642f34362f64642f31643436646461356239396366316139316131653233373766623934386233362e676966" /></a>
 
 
 <br />
@@ -62,5 +61,5 @@
 
 ---
 [Linkedin] : https://www.linkedin.com/in/asmaahamdy/
-[Gmail] : asmahamdym@gmail.com
+
 
