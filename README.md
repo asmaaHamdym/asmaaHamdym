@@ -20,8 +20,7 @@
 
 
 <a href=linkedin> <img align="left"  width="60px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]</a>
-
-[<img align="left" width="60px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][asmahamdym@gmail.com]
+<a href=Gmail> <img align="left"  width="60px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][Gmail]</a>
 
 
 <br />
@@ -64,5 +63,6 @@
 <br/>
 
 ---
-
+[Linkedin] : https://www.linkedin.com/in/asmaahamdy/
+[Gmail] : asmahamdym@gmail.com
 
