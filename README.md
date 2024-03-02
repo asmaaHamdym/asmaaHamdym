@@ -3,10 +3,10 @@
 <img src="https://s9.gifyu.com/images/SFG4S.gif" width="900px" height="300px">
 
 ## Salam, I'm Asmaa fron Egypt 🇪🇬
+## I'm a Software Engineer and a Coding Instructor  
 
 <img align="right" alt="GIF" height="160px" margin-top="20px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Software Engineer and a Coding Instructor  
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
