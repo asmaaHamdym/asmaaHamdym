@@ -4,7 +4,7 @@
 
 ## Salam, I'm Asmaa from Egypt 🇪🇬  I'm a Software Engineer and a Coding Instructor!
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="right"/>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" align="right"/>
 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
