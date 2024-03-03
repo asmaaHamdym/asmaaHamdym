@@ -48,13 +48,13 @@
 ---
 
 <br/>
-    <h2>Joke of the day 😂</h2>
+    <h2 align="left">Joke of the day 😂</h2>
     <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"  align="right"/>
   
-  <div> 
-    <h2 align="center">GitHub Stats</h2>
+  <div align="center"> 
+    <h2>GitHub Stats</h2>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaaHamdym&theme=react&line_height=40&hide=css"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaaHamdym&theme=react&line_height=40&hide=css"/>
     </a>
     
 </div
