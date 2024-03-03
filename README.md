@@ -4,7 +4,7 @@
 
 ## Salam, I'm Asmaa from Egypt 🇪🇬  I'm a Software Engineer and a Coding Instructor!
 
-<img align="right" alt="GIF" height="160px" margin-top="20px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="right"/>
 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
@@ -48,8 +48,7 @@
 ---
 
 <br/>
-    <h2 display="inline">Joke of the day 😂</h2>
-    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="right"/>
+    
   
   <div align="center"> 
     <h2>GitHub Stats</h2>
