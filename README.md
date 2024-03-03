@@ -49,14 +49,13 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
   
   <div> 
     <a href="">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaaHamdym&theme=react&line_height=40&hide=css"/>
     </a>
     <!-- HTML -->
-    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"  align="left"/>
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"  align="right"/>
 </div
   
 <br/>
