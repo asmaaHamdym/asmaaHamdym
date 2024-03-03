@@ -48,8 +48,8 @@
 ---
 
 <br/>
-    <h2 align="left">Joke of the day 😂</h2>
-    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"  align="right"/>
+    <h2>Joke of the day 😂</h2>
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   
   <div align="center"> 
     <h2>GitHub Stats</h2>
