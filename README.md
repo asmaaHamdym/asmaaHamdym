@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals:
+  
 
 
 
@@ -48,8 +48,8 @@
 ---
 
 <br/>
-    <h2>Joke of the day 😂</h2>
-    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+    <h2 display="inline">Joke of the day 😂</h2>
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="right"/>
   
   <div align="center"> 
     <h2>GitHub Stats</h2>
