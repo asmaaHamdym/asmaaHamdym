@@ -7,9 +7,9 @@
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" align="right"/>
 
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-  
+- 👨‍💻 I used to be a desktop developer but now I've transitioned to web development.
+- 👩‍🏫 Currently, I work as a freelance coding instructor teaching introductory JavaScript classes.
+- 📚 I'm diving deep into learning both Frontend and Backend technologies. 😅
 
 
 
