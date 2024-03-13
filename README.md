@@ -2,7 +2,7 @@
 
 <img src="https://s9.gifyu.com/images/SFG4S.gif" width="1200px" height="400px">
 
-## Salam, I'm Asmaa from Egypt 🇪🇬  I'm a Software Engineer and a Coding Instructor!
+## Salam, I'm Asmaa from Egypt 🇪🇬👋  I'm a Software Engineer and a Coding Instructor!
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" align="right"/>
 
