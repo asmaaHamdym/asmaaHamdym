@@ -70,15 +70,13 @@
 <a href="https://tailwindcss.com/" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailWind" height="40" width="40" />
 </a>
-Github Readme Generator
+
 <br/>
 
 ---
 
 <br/>
-    <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=g3root&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
-Github Readme Generator
+    
   
   <div align="center"> 
     <h2>GitHub Stats</h2>
