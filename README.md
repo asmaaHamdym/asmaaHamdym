@@ -28,9 +28,7 @@
 ---
 
 ### Languages and Tools 🛠 
-<a href="https://www.w3schools.com/cpp/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="40" />
-</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
 </a>
@@ -49,12 +47,37 @@
 <a href="https://webpack.js.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" height="40" width="40" />
 </a>
+<a href="https://www.w3schools.com/cpp/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="40" />
+</a>
 <a href="https://babeljs.io/" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" height="40" width="40" />
 </a>
 <a href="https://tailwindcss.com/" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailWind" height="40" width="40" />
 </a>
+<a href="https://www.mysql.com/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
+</a>
+<a href="https://www.oracle.com/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" height="40" width="40" />
+</a>
+<a href="https://nodejs.org" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
+</a>
+<a href="https://www.figma.com/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="40" width="40" />
+</a>
+<a href="https://postman.com" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" width="40" />
+</a>
+<a href="https://www.linux.org/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" width="40" />
+</a>
+<a href="https://git-scm.com/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" width="40" />
+</a>
+
 
 <br/>
 
