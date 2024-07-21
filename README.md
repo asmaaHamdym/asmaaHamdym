@@ -8,7 +8,7 @@
 
 
 - 👨‍💻 I used to be a desktop developer but now I've transitioned to web development.
-- 👩‍🏫 Currently, I work as a freelance coding instructor teaching JavaScript and Python classes for beginners.
+- 👩‍🏫 Currently, I work as a coding instructor teaching JavaScript and Python classes for beginners.
 - 📚 I'm diving deep into learning first Frontend and hopfully in the future Backend technologies. 😅
 
 
