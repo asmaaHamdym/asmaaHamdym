@@ -8,8 +8,8 @@
 
 
 - 👨‍💻 I used to be a desktop developer but now I've transitioned to web development.
-- 👩‍🏫 Currently, I work as a coding instructor teaching JavaScript and Python classes for beginners.
-- 📚 I'm diving deep into learning first Frontend and hopfully in the future Backend technologies. 😅
+- 👩‍🏫 I love both teaching and learning.
+- 📚 Mom of 3 kids and dog lover😅
 
 
 <div text-align="center">
